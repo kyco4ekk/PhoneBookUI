@@ -41,8 +41,6 @@
                              BorderThickness="0" Background="Transparent" Margin="6,0,6,0"/>
                 </Border>
 
-                <!-- Rounded TextBox for search contact -->
-
                 <TextBox
                     x:Name="searchContact" TextWrapping="Wrap" Text="Поиск контактов"
                              Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="164"
@@ -54,9 +52,9 @@
                 <Button Content="Добавить контакт" Margin="98,31,154,351" Click="addContact_Click"/>
 
                 <Button HorizontalAlignment="Left" Margin="354,0,0,0" 
-                        VerticalAlignment="Top" Width="31" Height="27" Click="Button_Click"
+                        VerticalAlignment="Top" Width="32" Height="32" Click="Button_Click"
                         Background="Transparent" BorderBrush="Transparent">
-                    <Image Source="C:\Users\kyco4ekk\Desktop\Телефонная книга C#\PhoneBookUI\PhoneBookUI\Image\close.png" Width="27" Height="23"/>
+                    <Image Source="pack://application:,,,/Image/close.png" Width="28" Height="28"/>
                     
                 </Button>
             </Grid>

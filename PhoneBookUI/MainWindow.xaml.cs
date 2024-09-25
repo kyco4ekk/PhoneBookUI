@@ -16,7 +16,6 @@ namespace PhoneBookUI
             PhoneBook phoneBook3 = new PhoneBook("Женя", "88005553535");
             contacts_tb.Text = PhoneBook.GetContacts();
         }
-
         private void addContact_Click(object sender, RoutedEventArgs e)
         {
             if (addContactWindow == null || !addContactWindow.IsVisible)
@@ -30,7 +29,6 @@ namespace PhoneBookUI
                 addContactWindow.Focus();
             }
         }
-
         public void UpdateContacts(string contacts)
         {
             if(searchContact.Text == "Поиск контактов")
@@ -38,7 +36,6 @@ namespace PhoneBookUI
             else
                 contacts_tb.Text = PhoneBook.GetSubstringContacts(searchContact.Text);
         }
-
         private void searchContact_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
 
@@ -73,7 +70,6 @@ namespace PhoneBookUI
                 }
             }
         }
-
         private void TextBox_LostFocus(object sender, RoutedEventArgs e)
         {
             TextBox textBox = sender as TextBox;
@@ -89,7 +85,6 @@ namespace PhoneBookUI
                 }
             }
         }
-
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Close();

@@ -9,4 +9,14 @@
 	<RuntimeIdentifier>win-x64</RuntimeIdentifier>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Image\close.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\close.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
 </Project>

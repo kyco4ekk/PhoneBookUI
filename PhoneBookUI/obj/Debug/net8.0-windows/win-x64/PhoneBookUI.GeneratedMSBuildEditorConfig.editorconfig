@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PhoneBookUI
-build_property.ProjectDir = C:\Users\kyco4ekk\Desktop\Телефонная книга C#\PhoneBookUI\PhoneBookUI\
+build_property.ProjectDir = C:\Users\kyco4ekk\Desktop\GitHub\PhoneBookUI\PhoneBookUI\PhoneBookUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

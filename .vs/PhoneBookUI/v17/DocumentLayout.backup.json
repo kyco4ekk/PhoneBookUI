@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|c:\\users\\kyco4ekk\\desktop\\github\\phonebookui\\phonebookui\\phonebookui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|solutionrelative:phonebookui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|c:\\users\\kyco4ekk\\desktop\\github\\phonebookui\\phonebookui\\phonebookui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|solutionrelative:phonebookui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|c:\\users\\kyco4ekk\\desktop\\github\\phonebookui\\phonebookui\\phonebookui\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|solutionrelative:phonebookui\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|c:\\users\\kyco4ekk\\desktop\\github\\phonebookui\\phonebookui\\phonebookui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D18170A-DF23-456A-9200-20C6570EB248}|PhoneBookUI\\PhoneBookUI.csproj|solutionrelative:phonebookui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PhoneBookUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PhoneBookUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:44:52.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PhoneBookUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\MainWindow.xaml",
+              "RelativeToolTip": "PhoneBookUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T17:44:18.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "PhoneBookUI\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\PhoneBook.cs",
+              "RelativeToolTip": "PhoneBookUI\\PhoneBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:55:07.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PhoneBookUI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kyco4ekk\\Desktop\\GitHub\\PhoneBookUI\\PhoneBookUI\\PhoneBookUI\\AssemblyInfo.cs",
+              "RelativeToolTip": "PhoneBookUI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:55:04.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
