@@ -44,7 +44,7 @@
                 <TextBox
                     x:Name="searchContact" TextWrapping="Wrap" Text="Поиск контактов"
                              Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="164"
-                             TextChanged="searchContact_TextChanged" GotFocus="TextBox_GotFocus"
+                             TextChanged="SearchContact_TextChanged" GotFocus="TextBox_GotFocus"
                              LostFocus="TextBox_LostFocus" Foreground="Gray"
                              BorderThickness="1" Background="White" Margin="98,1,0,0"/>
 

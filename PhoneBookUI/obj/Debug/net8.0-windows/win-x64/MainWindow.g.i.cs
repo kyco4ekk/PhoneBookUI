@@ -93,7 +93,7 @@ namespace PhoneBookUI {
             this.searchContact = ((System.Windows.Controls.TextBox)(target));
             
             #line 47 "..\..\..\..\MainWindow.xaml"
-            this.searchContact.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.searchContact_TextChanged);
+            this.searchContact.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.SearchContact_TextChanged);
             
             #line default
             #line hidden

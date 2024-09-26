@@ -36,7 +36,7 @@ namespace PhoneBookUI
             else
                 contacts_tb.Text = PhoneBook.GetSubstringContacts(searchContact.Text);
         }
-        private void searchContact_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
+        private void SearchContact_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
         {
 
             string searchText = searchContact.Text;
